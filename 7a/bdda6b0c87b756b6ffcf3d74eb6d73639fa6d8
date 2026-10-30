@@ -1,0 +1,16 @@
+.env.example
+  h_1dadfcb62c121b 1-2
+README.md
+  h_1dadfcb62c121b 78,80-82,89,119,121,123,125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7abdda6b0c87b756b6ffcf3d74eb6d73639fa6d8",
+  "prompts": {},
+  "humans": {
+    "h_1dadfcb62c121b": {
+      "author": "Balazs Nemeth <balazs.nemeth@vonage.com>"
+    }
+  }
+}
