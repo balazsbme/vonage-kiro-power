@@ -1,0 +1,19 @@
+README.md
+  s_98073985f78f84::t_caf4ee44537eba 88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6b44e3e481c5365495648f7fe65ee116073c113a",
+  "prompts": {},
+  "sessions": {
+    "s_98073985f78f84": {
+      "agent_id": {
+        "tool": "kiro",
+        "id": "sess_07880733-9d52-4c63-9397-44c30d76c6e6",
+        "model": "auto"
+      },
+      "human_author": "Balazs Nemeth <balazs.nemeth@vonage.com>"
+    }
+  }
+}
